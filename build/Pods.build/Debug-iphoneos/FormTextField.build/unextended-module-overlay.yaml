@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/rizwaullah/Desktop/My Demo App/build/Debug-iphoneos/FormTextField/FormTextField.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/rizwaullah/Desktop/My Demo App/build/Pods.build/Debug-iphoneos/FormTextField.build/unextended-module.modulemap",
+    }]
+  }]
+}

@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "3d1b8903cec6024e3afd602016148e93"
+build_time: [1632492360, 222327000]
+inputs:
+  "/Users/rizwaullah/Desktop/My Demo App/Pods/FormTextField/Source/Formatter/CardExpirationDateFormatter.swift": [1632307928, 0]
+  "/Users/rizwaullah/Desktop/My Demo App/Pods/FormTextField/Source/InputValidator/CardExpirationDateInputValidator.swift": [1632307928, 0]
+  "/Users/rizwaullah/Desktop/My Demo App/Pods/FormTextField/Source/Formatter/CardNumberFormatter.swift": [1632307928, 0]
+  "/Users/rizwaullah/Desktop/My Demo App/Pods/FormTextField/Source/InputValidator/DecimalInputValidator.swift": [1632307928, 0]
+  "/Users/rizwaullah/Desktop/My Demo App/Pods/FormTextField/Source/Formatter/Formattable.swift": [1632307928, 0]
+  "/Users/rizwaullah/Desktop/My Demo App/Pods/FormTextField/Source/FormTextField.swift": [1632317319, 0]
+  "/Users/rizwaullah/Desktop/My Demo App/Pods/FormTextField/Source/FormTextFieldClearButton.swift": [1632307928, 0]
+  "/Users/rizwaullah/Desktop/My Demo App/Pods/FormTextField/Source/FormTextFieldTypeManager.swift": [1632307928, 0]
+  "/Users/rizwaullah/Desktop/My Demo App/Pods/FormTextField/Source/InputValidator/InputValidatable.swift": [1632307928, 0]
+  "/Users/rizwaullah/Desktop/My Demo App/Pods/FormTextField/Source/InputValidator/InputValidator.swift": [1632307928, 0]
+  "/Users/rizwaullah/Desktop/My Demo App/Pods/FormTextField/Source/InputValidator/RequiredInputValidator.swift": [1632307928, 0]
+  "/Users/rizwaullah/Desktop/My Demo App/Pods/FormTextField/Source/Validation/Validation.swift": [1632307928, 0]

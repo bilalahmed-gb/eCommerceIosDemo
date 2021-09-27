@@ -44,6 +44,7 @@
 		2F9F23FB26F72BC900E9410C /* ViewShadowBottom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F9F23F526F72BC900E9410C /* ViewShadowBottom.swift */; };
 		2F9F23FD26F72C6E00E9410C /* YPDrawSignatureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F9F23FC26F72C6E00E9410C /* YPDrawSignatureView.swift */; };
 		2FBA776426F85C0F0004BCC3 /* CatalogViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FBA776326F85C0F0004BCC3 /* CatalogViewController.swift */; };
+		2FBB69BC27019EF10022F706 /* WebViewHandlerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FBB69BB27019EF10022F706 /* WebViewHandlerViewController.swift */; };
 		2FC1FA5726F36CEE004A2555 /* PaymentMethodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC1FA5626F36CEE004A2555 /* PaymentMethodViewController.swift */; };
 		2FF8B10826FB1BD200921534 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF8B10726FB1BD200921534 /* Constants.swift */; };
 		A0794204410772F608EC9A78 /* Pods_My_Demo_App.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4BA2876F17353ADA6DBFD217 /* Pods_My_Demo_App.framework */; };
@@ -90,6 +91,7 @@
 		2F9F23F526F72BC900E9410C /* ViewShadowBottom.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewShadowBottom.swift; sourceTree = "<group>"; };
 		2F9F23FC26F72C6E00E9410C /* YPDrawSignatureView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YPDrawSignatureView.swift; sourceTree = "<group>"; };
 		2FBA776326F85C0F0004BCC3 /* CatalogViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogViewController.swift; sourceTree = "<group>"; };
+		2FBB69BB27019EF10022F706 /* WebViewHandlerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewHandlerViewController.swift; sourceTree = "<group>"; };
 		2FC1FA5626F36CEE004A2555 /* PaymentMethodViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentMethodViewController.swift; sourceTree = "<group>"; };
 		2FF8B10726FB1BD200921534 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		4BA2876F17353ADA6DBFD217 /* Pods_My_Demo_App.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_My_Demo_App.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -171,6 +173,7 @@
 				2F219FBC26F77A9000DBFE49 /* MyCartViewController.swift */,
 				2F5A0C9926F7C85600666666 /* ProductPageDetailViewController.swift */,
 				2FBA776326F85C0F0004BCC3 /* CatalogViewController.swift */,
+				2FBB69BB27019EF10022F706 /* WebViewHandlerViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -367,6 +370,7 @@
 				2F3EBC2126F3DA71006CA19A /* MenuViewController.swift in Sources */,
 				2F1AAB7726F88D0800CC0A09 /* ViewTopRoundCorner.swift in Sources */,
 				2F8414EC26FC55BF008C1FA8 /* Utils.swift in Sources */,
+				2FBB69BC27019EF10022F706 /* WebViewHandlerViewController.swift in Sources */,
 				2F81479E26F4877E007E98EC /* GeoLocationViewController.swift in Sources */,
 				2F7BEFAE26F48C8C00457331 /* AboutViewController.swift in Sources */,
 				2F45FB4926F1CC0100A13B16 /* LoginViewController.swift in Sources */,

@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+FormTextField in Pods
+Pods-My Demo App in Pods, depends on:
+FormTextField in Pods (explicit)
+My Demo App in My Demo App, depends on:
+Pods-My Demo App in Pods (implicit dependency via file 'Pods_My_Demo_App.framework' in build phase 'Link Binary'
+FormTextField in Pods (implicit dependency via options '-framework FormTextField' in build setting 'OTHER_LDFLAGS'
